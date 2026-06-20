@@ -152,9 +152,9 @@ title: "Team"
   </div>
 
   <div class="text-center">
-    <img src="/img/headshots/aadithyaa.jpg" alt="Adithyaa Vishegu"
+    <img src="/img/headshots/aadithyaa.jpg" alt="Aadithyaa Vishegu"
          class="mx-auto w-56 rounded-lg shadow-lg">
-    <h2 class="mt-6 text-2xl font-bold">Adithyaa Vishegu</h2>
+    <h2 class="mt-6 text-2xl font-bold">Aadithyaa Vishegu</h2>
     <p class="mt-2 opacity-70">Music Production Lead</p>
   </div>
 
